@@ -1,3 +1,6 @@
+👾 Project 3: Two-Player Tic-Tac-Toe (Console)
+This is a two-player command-line implementation of the classic game Tic-Tac-Toe, developed in Python using a class-based structure.
+
 ✨ Features
 Two-Player Mode: Allows two users to play against each other locally.
 
